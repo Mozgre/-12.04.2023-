@@ -1,0 +1,15 @@
+C:\Users\gaz53\source\repos\Рефлексия Кудряшов Александр\Рефлексия Кудряшов Александр\bin\Debug\net6.0\Рефлексия Кудряшов Александр.exe
+C:\Users\gaz53\source\repos\Рефлексия Кудряшов Александр\Рефлексия Кудряшов Александр\bin\Debug\net6.0\Рефлексия Кудряшов Александр.deps.json
+C:\Users\gaz53\source\repos\Рефлексия Кудряшов Александр\Рефлексия Кудряшов Александр\bin\Debug\net6.0\Рефлексия Кудряшов Александр.runtimeconfig.json
+C:\Users\gaz53\source\repos\Рефлексия Кудряшов Александр\Рефлексия Кудряшов Александр\bin\Debug\net6.0\Рефлексия Кудряшов Александр.dll
+C:\Users\gaz53\source\repos\Рефлексия Кудряшов Александр\Рефлексия Кудряшов Александр\bin\Debug\net6.0\Рефлексия Кудряшов Александр.pdb
+C:\Users\gaz53\source\repos\Рефлексия Кудряшов Александр\Рефлексия Кудряшов Александр\obj\Debug\net6.0\Рефлексия Кудряшов Александр.csproj.AssemblyReference.cache
+C:\Users\gaz53\source\repos\Рефлексия Кудряшов Александр\Рефлексия Кудряшов Александр\obj\Debug\net6.0\Рефлексия Кудряшов Александр.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaz53\source\repos\Рефлексия Кудряшов Александр\Рефлексия Кудряшов Александр\obj\Debug\net6.0\Рефлексия Кудряшов Александр.AssemblyInfoInputs.cache
+C:\Users\gaz53\source\repos\Рефлексия Кудряшов Александр\Рефлексия Кудряшов Александр\obj\Debug\net6.0\Рефлексия Кудряшов Александр.AssemblyInfo.cs
+C:\Users\gaz53\source\repos\Рефлексия Кудряшов Александр\Рефлексия Кудряшов Александр\obj\Debug\net6.0\Рефлексия Кудряшов Александр.csproj.CoreCompileInputs.cache
+C:\Users\gaz53\source\repos\Рефлексия Кудряшов Александр\Рефлексия Кудряшов Александр\obj\Debug\net6.0\Рефлексия Кудряшов Александр.dll
+C:\Users\gaz53\source\repos\Рефлексия Кудряшов Александр\Рефлексия Кудряшов Александр\obj\Debug\net6.0\refint\Рефлексия Кудряшов Александр.dll
+C:\Users\gaz53\source\repos\Рефлексия Кудряшов Александр\Рефлексия Кудряшов Александр\obj\Debug\net6.0\Рефлексия Кудряшов Александр.pdb
+C:\Users\gaz53\source\repos\Рефлексия Кудряшов Александр\Рефлексия Кудряшов Александр\obj\Debug\net6.0\Рефлексия Кудряшов Александр.genruntimeconfig.cache
+C:\Users\gaz53\source\repos\Рефлексия Кудряшов Александр\Рефлексия Кудряшов Александр\obj\Debug\net6.0\ref\Рефлексия Кудряшов Александр.dll
